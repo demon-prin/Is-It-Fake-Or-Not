@@ -13,7 +13,7 @@ To get started with this project locally, follow the steps below:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Dak97/Is-It-Fake-Or-Not.git
+    git clone https://github.com/demon-prin/Is-It-Fake-Or-Not
     ```
    This will clone the repository to your local machine.
    In order to reproduce the experiment, you can download the training, validation and test images from here:

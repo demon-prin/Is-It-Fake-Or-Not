@@ -17,7 +17,7 @@ To get started with this project locally, follow the steps below:
     ```
    This will clone the repository to your local machine.
    In order to reproduce the experiment, you can download the training, validation and test images from here:
-   - Fakeddit: https://drive.google.com/file/d/1coi5b2MwQW3DqCLOg9Wxk6QXVoHhvcc2/view?usp=drive_link
+   - Fakeddit: [https://drive.google.com/file/d/1coi5b2MwQW3DqCLOg9Wxk6QXVoHhvcc2/view?usp=drive_link](https://drive.google.com/file/d/18vbnclqOT6qQv_mHuGOKMCfVWH7PkLT3/view?usp=drive_link)
    - ReCOVery: https://unicadrsi-my.sharepoint.com/:f:/g/personal/davideantonio_mura_unica_it/EuHuq0aVm4dOuaIpPKoQks0Bv5hPjyvWZIkP3vnFVd4dnQ?e=2zSufx
 
 3. **Navigate to the Project Directory**
